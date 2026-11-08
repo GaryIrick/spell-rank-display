@@ -1,0 +1,9 @@
+## Interface: 16001, 11508, 11509
+## Title: Spell Rank Display
+## Notes: Shows the spell rank number on Blizzard action buttons.
+## Author: Rackham
+## Version: 1.0.0
+## SavedVariables: SpellRankDisplayDB
+
+SpellRankDisplay.lua
+Options.lua
