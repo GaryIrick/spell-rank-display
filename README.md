@@ -52,3 +52,7 @@ look.
 ## Author
 
 Rackham
+
+## License
+
+[MIT](LICENSE)
