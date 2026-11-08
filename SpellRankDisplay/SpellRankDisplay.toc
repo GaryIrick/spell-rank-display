@@ -1,4 +1,4 @@
-## Interface: 16001, 11508, 11509
+## Interface: 16001
 ## Title: Spell Rank Display
 ## Notes: Shows the spell rank number on Blizzard action buttons.
 ## Author: Rackham
