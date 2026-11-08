@@ -4,6 +4,7 @@
 ## Author: Rackham
 ## Version: 1.0.0
 ## SavedVariables: SpellRankDisplayDB
+## IconTexture: Interface\AddOns\SpellRankDisplay\icon
 
 SpellRankDisplay.lua
 Options.lua
